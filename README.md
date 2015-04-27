@@ -9,4 +9,4 @@ Change the CPU parameters to your needs; e.g. if you have just two cores, remove
 <br>
 Finally remember to change wlan0 to your network interface. Probably eth0, if wlan0 doesn't work. 
 
-Here is a screenshot how it will look like: 
+Here is a screenshot how it will look like: ![Desktop](http://i.imgur.com/f98JBtc.jpg)
