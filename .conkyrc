@@ -11,14 +11,6 @@ total_run_times 0
 own_window yes
 own_window_transparent yes
 ##############################################
-# Compositing tips:
-
-## cairo-compmgr
-own_window_type desktop
-own_window_argb_visual yes
-##############################################
-# Compositing tips:
-
 ## cairo-compmgr
 own_window_type desktop
 own_window_argb_visual yes
